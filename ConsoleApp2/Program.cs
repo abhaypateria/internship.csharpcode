@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world, first c# programm");
+            Console.WriteLine("Hello world, first c# programm on visual studio");
             Console.ReadKey();
         }
     }
